@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\LUIS LOPEZ\\Desktop\\201801223_TAREA P3\\201801223_tarrea.P3\\201801223_tarrea.P3.vbproj": {}
+  },
+  "projects": {
+    "C:\\Users\\LUIS LOPEZ\\Desktop\\201801223_TAREA P3\\201801223_tarrea.P3\\201801223_tarrea.P3.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LUIS LOPEZ\\Desktop\\201801223_TAREA P3\\201801223_tarrea.P3\\201801223_tarrea.P3.vbproj",
+        "projectName": "201801223_tarrea.P3",
+        "projectPath": "C:\\Users\\LUIS LOPEZ\\Desktop\\201801223_TAREA P3\\201801223_tarrea.P3\\201801223_tarrea.P3.vbproj",
+        "packagesPath": "C:\\Users\\LUIS LOPEZ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LUIS LOPEZ\\Desktop\\201801223_TAREA P3\\201801223_tarrea.P3\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LUIS LOPEZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
